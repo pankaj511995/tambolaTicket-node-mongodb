@@ -2,3 +2,15 @@ node_modules
 .env
 yarn.lock
 html
+
+
+.env file only for checking purpose
+
+URL=   (add mongoDb url )
+SALT=8
+SECRATE_KEY=fairawerewarHFDFDE^&&*^@^ffafaGDSDD*&DSDYSDHS&E*&**UHHfhafagag
+
+
+/// i have taken JWT token by generating  manually
+
+TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NjRlOWMwNjI2ODEyZTgwYThmNGMyOSIsImlhdCI6MTY4NDMzNTE0Mn0.FX3R49EG2j4C0tqSQB5nOa4E2jGPJIrVeng6kiAl8tg
